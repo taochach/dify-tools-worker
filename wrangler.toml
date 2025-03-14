@@ -1,4 +1,4 @@
-name = "dify-custom-tool"
+name = "dify-tools-worker"
 compatibility_date = "2025-03-14"
 
 [vars]
