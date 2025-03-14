@@ -18,4 +18,4 @@ TOOL_DESCRIPTION = "Dify Custom Tool"
 [[d1_databases]]
 binding = "DB"
 database_name = "MY_DB"
-database_id = "dify"
+database_id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
